@@ -2,14 +2,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
+<name>[COLOR indigo]||[/COLOR][COLOR deeppink]||[/COLOR][COLOR orangered]||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON TESTE[/COLOR] [COLOR orangered]||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601509.us.archive.org/24/items/capturadetela20150625110557/Captura%20de%20tela_2015-06-25_11-05-57.png</thumbnail>
 <externallink>https://</externallink>
 <fanart></fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - ADDON DE TESTE AURO - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -24,7 +24,7 @@
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] -OS MELHORES ADDON DE VARIEDADES- [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
