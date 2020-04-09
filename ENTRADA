@@ -9,16 +9,16 @@
 <info>
 
 
-[COLOR deeppink]|[/COLOR] -FILMES - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] -os melhores conteúdos- [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>DESENHOS
+<channels>
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://raw.githubusercontent.com/belitv/addon-belitv/master/ENTRADA</thumbnail>
 <externallink>https://raw.githubusercontent.com/belitv/addon-belitv/master/ENTRADA</externallink>
 <fanart></fanart>
 <info>MELHORES DESENHOS
